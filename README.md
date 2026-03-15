@@ -201,11 +201,6 @@ All visual cells use `display(HTML(...))` in code cells with `"source_hidden": t
 
 ---
 
-## ◈ Tags
-
-`mathematics` · `visualization` · `animation` · `fractal` · `chaos-theory` · `number-theory` · `simulation` · `numpy` · `matplotlib` · `reaction-diffusion` · `4d-geometry` · `prime-numbers` · `generative-art` · `educational` · `turing-instability` · `strange-attractor`
-
----
 
 <div align="center">
 
